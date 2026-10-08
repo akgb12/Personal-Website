@@ -1,0 +1,18 @@
+# Upload only the application and its build inputs. Keep local private files,
+# credentials, onboarding originals, and QA artifacts off Vercel.
+/*
+!/src
+!/public
+!/_onboarding
+/_onboarding/*
+!/_onboarding/data
+!/package.json
+!/package-lock.json
+!/next.config.ts
+!/next-env.d.ts
+!/tsconfig.json
+!/postcss.config.mjs
+!/eslint.config.mjs
+!/components.json
+!/vercel.json
+!/.vercelignore

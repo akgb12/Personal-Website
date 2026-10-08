@@ -20,7 +20,15 @@ npm run start
 
 The production build deliberately uses Webpack. Turbopack's production CSS worker could not bind its subprocess port in this machine's restricted execution environment; the Webpack build passes. Development still uses Next.js's default Turbopack server.
 
-Set `NEXT_PUBLIC_SITE_URL` before building if the canonical deployment domain changes. Its default is `https://aneykanji12.vercel.app`. Nothing has been deployed by this rebuild.
+Set `NEXT_PUBLIC_SITE_URL` before building if the canonical deployment domain changes. Its local fallback is `https://aneykanji12.vercel.app`; the new Vercel project configures it as `https://aney-kanji-portfolio.vercel.app`.
+
+## Vercel deployment
+
+The new `aney-kanji-portfolio` project is configured in the `aney-kanjis-projects` scope and connected to `akgb12/Personal-Website` on GitHub. Its production branch is `main`, framework is Next.js, Node.js version is 24.x, install command is `npm ci`, and build command is `npm run build`. Root and output directories use framework defaults.
+
+`.vercelignore` allows only application files and build inputs in CLI uploads. Private backups, résumé PDFs, supplied references, local credentials, and QA artifacts are excluded. The local `.vercel/` link and `.env.local` remain ignored and must never be committed.
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for project settings and repeatable deployment commands. No existing Vercel project or domain was replaced.
 
 ## Content and structure
 
@@ -62,4 +70,4 @@ Start a server before running browser checks. All browser QA commands default to
 
 The browser suite writes screenshots to ignored `qa/screenshots/`. See [QA.md](QA.md) for results, scope, and remaining third-party limitations. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for licenses, asset sources, and the complete hero generation prompt.
 
-The owner authorized staging, committing, and pushing this rebuild on `new_version`. No merge or deployment is part of that authorization.
+The owner authorized the rebuild's GitHub publication, promotion to `main`, and new Vercel project setup. Deployment configuration does not change the approved website content or artwork.
