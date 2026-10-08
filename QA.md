@@ -1,6 +1,6 @@
 # Rebuild verification
 
-Verified locally on October 7, 2026, on branch `new_version`. The legacy deletions that existed before the rebuild were preserved. The owner subsequently authorized staging, committing, and pushing this branch; no branch switch, merge, or deployment is included.
+Verified locally on October 7, 2026, on branch `new_version`. The legacy deletions that existed before the rebuild were preserved. The owner subsequently authorized GitHub publication, promotion to `main`, and a new Vercel project. The workspace remains on `new_version`.
 
 ## Passing checks
 
