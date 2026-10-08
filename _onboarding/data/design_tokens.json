@@ -1,0 +1,29 @@
+{
+  "font_sans": "Geist Sans",
+  "font_mono": "Geist Mono",
+  "tone": [
+    "premium",
+    "cinematic",
+    "editorial",
+    "minimal",
+    "colorful when appropriate"
+  ],
+  "avoid": [
+    "dark dashboard",
+    "terminal hero",
+    "neon hacker aesthetic",
+    "repetitive card grid",
+    "skill pills",
+    "cheesy slogan",
+    "stock imagery"
+  ],
+  "motion": [
+    "scroll-linked transforms",
+    "clip/mask reveals",
+    "blur-to-focus",
+    "controlled scale",
+    "sticky scenes",
+    "purposeful parallax"
+  ],
+  "reduced_motion_required": true
+}

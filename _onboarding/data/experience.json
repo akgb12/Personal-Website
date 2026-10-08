@@ -1,0 +1,83 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organization": "m1neral",
+    "start": "Sep 2026",
+    "end": "Present",
+    "location": "Remote",
+    "image_required": true,
+    "summary": null
+  },
+  {
+    "role": "AI Systems Researcher",
+    "organization": "Texas A&M University",
+    "start": "Aug 2026",
+    "end": "Present",
+    "location": "College Station, TX",
+    "image_required": true,
+    "summary": "Researching agentic systems for translating and validating university documents for accessibility."
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organization": "Walt Disney",
+    "start": "Jun 2026",
+    "end": "Sep 2026",
+    "location": "Seattle, WA",
+    "image_required": true,
+    "summary": "Worked on cloud-governance automation for AI model catalogs spanning AWS, Azure, and GCP."
+  },
+  {
+    "role": "Machine Learning Researcher",
+    "organization": "Texas A&M University",
+    "start": "Jan 2026",
+    "end": "May 2026",
+    "location": "College Station, TX",
+    "image_required": true,
+    "summary": "Built Kestrel, a PyTorch research package for Flow Matching visualization and evaluation workflows."
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organization": "Acumentor LLC",
+    "start": "Oct 2025",
+    "end": "Mar 2026",
+    "location": "Remote",
+    "image_required": true,
+    "summary": "Built data-processing and QA tooling for large smoke-detection datasets and research workflows."
+  },
+  {
+    "role": "Data Analytics & QA Intern",
+    "organization": "BroadStreet Institute",
+    "start": "Sep 2025",
+    "end": "Dec 2025",
+    "location": "Remote",
+    "image_required": true,
+    "summary": null
+  },
+  {
+    "role": "Undergraduate Teaching Assistant",
+    "organization": "Texas A&M University",
+    "start": "Jan 2025",
+    "end": "May 2026",
+    "location": "College Station, TX",
+    "image_required": true,
+    "summary": "Supported Data Science and Deep Learning labs, office hours, grading, and autograder workflows."
+  },
+  {
+    "role": "Peer Teacher",
+    "organization": "Texas A&M University",
+    "start": "Aug 2024",
+    "end": "May 2025",
+    "location": "College Station, TX",
+    "image_required": true,
+    "summary": null
+  },
+  {
+    "role": "Mathematics Research Assistant",
+    "organization": "Texas A&M University",
+    "start": "Aug 2024",
+    "end": "Dec 2024",
+    "location": "College Station, TX",
+    "image_required": true,
+    "summary": "Studied fixed-term decompositions using even-indexed Fibonacci numbers, work that later became a peer-reviewed publication."
+  }
+]

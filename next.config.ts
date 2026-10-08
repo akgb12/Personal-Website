@@ -1,0 +1,10 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  turbopack: { root: process.cwd() },
+  devIndicators: false,
+  agentRules: false,
+  images: { qualities: [75, 90] },
+};
+
+export default nextConfig;

@@ -1,0 +1,54 @@
+[
+  {
+    "title": "AI Systems Researcher",
+    "organization": "Texas A&M University",
+    "start": "Aug 2026",
+    "end": "Present",
+    "description": "Researching agentic systems for translating and validating university documents for accessibility, with a focus on orchestration, intermediate representations, and iterative remediation.",
+    "topics": [
+      "agentic document translation",
+      "accessibility",
+      "orchestration",
+      "canonical intermediate representation",
+      "validation/remediation",
+      "LaTeX/Beamer initial focus"
+    ]
+  },
+  {
+    "title": "Machine Learning Researcher \u2014 Flow Matching / Kestrel",
+    "organization": "Texas A&M University",
+    "start": "Jan 2026",
+    "end": "May 2026",
+    "description": "Built Kestrel, a PyTorch research package for visualizing and evaluating Flow Matching trajectories and velocity fields.",
+    "topics": [
+      "PyTorch",
+      "Flow Matching",
+      "trajectory simulation",
+      "velocity fields",
+      "YAML",
+      "Matplotlib",
+      "Jupyter",
+      "Poetry",
+      "PyTest",
+      "Jenkins",
+      "Docker"
+    ],
+    "metrics": [
+      "45% lower render time",
+      "30% lower experiment turnaround",
+      "10,000+ images in r\u00e9sum\u00e9 performance context"
+    ]
+  },
+  {
+    "title": "Mathematics Research Assistant",
+    "organization": "Texas A&M University",
+    "start": "Aug 2024",
+    "end": "Dec 2024",
+    "description": "Studied fixed-term decompositions using even-indexed Fibonacci numbers, work that later led to a peer-reviewed publication.",
+    "topics": [
+      "Fibonacci numbers",
+      "Zeckendorf-style decompositions",
+      "fixed-term characterization"
+    ]
+  }
+]
