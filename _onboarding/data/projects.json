@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Google Sapphire",
+    "description": "A Google-sponsored code-modernization platform that translates legacy code into user-selected stacks and produces runnable tests using an agentic translation pipeline.",
+    "repo": "https://github.com/akgb12/Google-Sapphire",
+    "tech": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Flask",
+      "PostgreSQL",
+      "LangGraph",
+      "Gemini",
+      "GCP Cloud SQL",
+      "GCP Cloud Storage"
+    ],
+    "metrics": [
+      "78%+ test pass rate",
+      "300+ ZIP conversions"
+    ],
+    "notes": [
+      "Project lead on a 4-person team",
+      "Cloud Run deployment context",
+      "Monaco editor"
+    ]
+  },
+  {
+    "name": "Paladin",
+    "description": "A cloud-native receipt vault that uploads receipt images, extracts structured data, and organizes receipts by merchant and date.",
+    "repo": "https://github.com/akgb12/Paladin",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Spring Boot",
+      "GraphQL/Apollo",
+      "DynamoDB",
+      "AWS S3",
+      "AWS Textract",
+      "Docker"
+    ],
+    "metrics": [],
+    "notes": [
+      "Google OAuth2",
+      "Vite/Tailwind frontend"
+    ]
+  },
+  {
+    "name": "FrostSight",
+    "description": "A cloud cost-intelligence platform that ingests billing exports, stores and caches spend data, exposes REST/GraphQL APIs, and renders an interactive cost explorer.",
+    "repo": "https://github.com/akgb12/FrostSight",
+    "tech": [
+      "Vue.js",
+      "Three.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redis",
+      "AWS S3",
+      "Datadog",
+      "Docker"
+    ],
+    "metrics": [
+      "500,000+ billing line items",
+      "90%+ reduction in cost-spike investigation time",
+      "80% faster dashboard reads"
+    ],
+    "notes": [
+      "GitHub Actions CI/CD"
+    ]
+  },
+  {
+    "name": "CloudGuard Audit Agent",
+    "description": "An incident-response agent that ingests security events, runs deterministic detection and correlation, and uses a LangChain/Gemini agent with tools and persistent memory for structured analysis and response recommendations.",
+    "repo": "https://github.com/akgb12/CloudGuard-Audit-Agent",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "Gemini",
+      "GCP Pub/Sub",
+      "Docker"
+    ],
+    "metrics": [],
+    "notes": [
+      "SQLite-backed agent memory",
+      "Evaluation tooling for precision/recall/F1/MTTD/MTTR"
+    ]
+  },
+  {
+    "name": "Kung Fu Express",
+    "description": "A TypeScript/React restaurant POS system with FastAPI/PostgreSQL services and LangChain-powered AI ordering workflows.",
+    "repo": null,
+    "tech": [
+      "TypeScript",
+      "React.js",
+      "FastAPI",
+      "PostgreSQL",
+      "LangChain",
+      "AWS RDS",
+      "Heroku",
+      "Render",
+      "Docker"
+    ],
+    "metrics": [
+      "$1M+ annual revenue tracking context"
+    ],
+    "notes": [
+      "Organization repository is not accessible to the connected GitHub app",
+      "Scrum Master / team leadership context"
+    ]
+  }
+]

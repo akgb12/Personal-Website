@@ -1,0 +1,18 @@
+{
+  "university": "Texas A&M University",
+  "location": "College Station, TX",
+  "honors": "Engineering Honors",
+  "show_gpa": false,
+  "degrees": [
+    {
+      "degree": "B.S. in Computer Science",
+      "start": "Aug 2023",
+      "end": "May 2027"
+    },
+    {
+      "degree": "B.S. in Statistics",
+      "start": "Aug 2024",
+      "end": "May 2027"
+    }
+  ]
+}

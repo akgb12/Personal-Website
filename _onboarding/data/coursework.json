@@ -1,0 +1,130 @@
+{
+  "graduate": [
+    {
+      "code": "CSCE 611",
+      "title": "Operating Systems"
+    },
+    {
+      "code": "CSCE 629",
+      "title": "Analysis of Algorithms"
+    },
+    {
+      "code": "CSCE 633",
+      "title": "Machine Learning"
+    },
+    {
+      "code": "CSCE 636",
+      "title": "Deep Learning"
+    },
+    {
+      "code": "CSCE 670",
+      "title": "Information Storage and Retrieval"
+    },
+    {
+      "code": "ECEN 758",
+      "title": "Data Mining & Analysis"
+    },
+    {
+      "code": "STAT 604",
+      "title": "Statistical Computations"
+    },
+    {
+      "code": "STAT 651",
+      "title": "Statistics in Research I"
+    }
+  ],
+  "undergraduate": [
+    {
+      "code": "MATH 470",
+      "title": "Communications and Cryptography"
+    },
+    {
+      "code": "CSCE 305 / STAT 315",
+      "title": "Computational Data Science"
+    },
+    {
+      "code": "CSCE 312",
+      "title": "Computer Organization"
+    },
+    {
+      "code": "CSCE 221",
+      "title": "Data Structures & Algorithms"
+    },
+    {
+      "code": "CSCE 222",
+      "title": "Discrete Structures for Computing"
+    },
+    {
+      "code": "ENGR 102",
+      "title": "Engineering Lab I - Computation"
+    },
+    {
+      "code": "MATH 251",
+      "title": "Engineering Mathematics III"
+    },
+    {
+      "code": "CSCE 477H",
+      "title": "Honors Cybersecurity Risk"
+    },
+    {
+      "code": "CSCE 331H",
+      "title": "Honors Foundations of Software Engineering"
+    },
+    {
+      "code": "CSCE 181",
+      "title": "Intro to Computing"
+    },
+    {
+      "code": "CSCE 313",
+      "title": "Introduction to Computer Systems"
+    },
+    {
+      "code": "STAT 408",
+      "title": "Introduction to Linear Models"
+    },
+    {
+      "code": "MATH 304",
+      "title": "Linear Algebra"
+    },
+    {
+      "code": "STAT 414",
+      "title": "Mathematical Statistics I"
+    },
+    {
+      "code": "STAT 211",
+      "title": "Principles of Statistics I"
+    },
+    {
+      "code": "STAT 212",
+      "title": "Principles of Statistics II"
+    },
+    {
+      "code": "CSCE 120",
+      "title": "Program Design & Concepts"
+    },
+    {
+      "code": "CSCE 110",
+      "title": "Programming I"
+    },
+    {
+      "code": "CSCE 314",
+      "title": "Programming Languages"
+    },
+    {
+      "code": "MATH 491",
+      "title": "Research"
+    },
+    {
+      "code": "STAT 491",
+      "title": "Research"
+    },
+    {
+      "code": "CSCE 481",
+      "title": "Seminar"
+    },
+    {
+      "code": "CSCE 482",
+      "title": "Senior Capstone Design"
+    }
+  ]
+}

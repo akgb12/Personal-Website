@@ -1,0 +1,177 @@
+[
+  {
+    "path": "AGENTS.md",
+    "bytes": 3618,
+    "sha256": "09abc7b11e461638b738163a1fae20bf66955b972e835af0ad41d387f5d57afa"
+  },
+  {
+    "path": "CODEX_START_PROMPT.md",
+    "bytes": 912,
+    "sha256": "8ff9277a5de64e7b704d223b07565b7d41a038efd65635929ec0fe09a6297fed"
+  },
+  {
+    "path": "README_ONBOARDING.md",
+    "bytes": 968,
+    "sha256": "cb4a837b6227753a8bdfcc3a8f02fd5fb9ca3b4f38606be090c514f506703a60"
+  },
+  {
+    "path": "_onboarding/assets/Acumentor_Logo.png",
+    "bytes": 28694,
+    "sha256": "92e328e823ddcba75435563c21dd4054185596c357430a2e74d6f51ef9ab62ea"
+  },
+  {
+    "path": "_onboarding/assets/Aney_Kanji_Resume.pdf",
+    "bytes": 137711,
+    "sha256": "52e56fdad7da099a3a79f0bda1be41a4f1f5112867d834969ae63873f3ec61cc"
+  },
+  {
+    "path": "_onboarding/data/coursework.json",
+    "bytes": 2465,
+    "sha256": "7c149d3b3287a127d40c9e0c29955ea1ed3af9467b3112ff6b7f921fa3e4d728"
+  },
+  {
+    "path": "_onboarding/data/design_tokens.json",
+    "bytes": 555,
+    "sha256": "b3a7fb86a89010e14a861ab06e7067ec45898b2c8cce712880cb374e8d19ca26"
+  },
+  {
+    "path": "_onboarding/data/education.json",
+    "bytes": 364,
+    "sha256": "1c75f3ff4d1e6fd7944a22e2e7d335941b12bf0a88ab04fa4cb6a2b094f3831a"
+  },
+  {
+    "path": "_onboarding/data/experience.json",
+    "bytes": 2569,
+    "sha256": "93c0961355539a6a801af530af50aad504f9eb670b6dbacb61091f0a5b65274a"
+  },
+  {
+    "path": "_onboarding/data/links.json",
+    "bytes": 247,
+    "sha256": "f487e0af04922fddf6c99e3d7a84a87b24761296d83f3850473221ddc9bf1a96"
+  },
+  {
+    "path": "_onboarding/data/projects.json",
+    "bytes": 3047,
+    "sha256": "6d43d4d55e65f5b1365e25e300523d103e5f3a5f9ae407a68a2ed3e88290af8a"
+  },
+  {
+    "path": "_onboarding/data/publication.json",
+    "bytes": 532,
+    "sha256": "b02c9afd7432cafbdcae23ff3978b4b85b2bc8d667dcd59da1f8dc59f0ee88e2"
+  },
+  {
+    "path": "_onboarding/data/research.json",
+    "bytes": 1701,
+    "sha256": "f25263c45e752d338b3b06471dcfc30034153d5789f6b25eeaa659296a3919ce"
+  },
+  {
+    "path": "_onboarding/docs/00_PROJECT_BRIEF.md",
+    "bytes": 2293,
+    "sha256": "69ee1001ee2842dc1bc3c544fc9185cea7f7086e6dc33eb54db53acf2f456e9d"
+  },
+  {
+    "path": "_onboarding/docs/01_DECISIONS_LOG.md",
+    "bytes": 3470,
+    "sha256": "3505b536c243b0b8932ec0282dbad0e43a2bbf751574aceef9656fa08ae0b25e"
+  },
+  {
+    "path": "_onboarding/docs/02_CONTENT_SOURCE_OF_TRUTH.md",
+    "bytes": 6531,
+    "sha256": "af988a6f20ee99260a334bf2e8aa9bf0a4218861241de5e8435708b86d298ef7"
+  },
+  {
+    "path": "_onboarding/docs/03_INFORMATION_ARCHITECTURE.md",
+    "bytes": 4338,
+    "sha256": "2ac750e8f82a48937d0fed89b7905393b7925c968eeddbaf976594237c5618bd"
+  },
+  {
+    "path": "_onboarding/docs/04_DESIGN_DIRECTION.md",
+    "bytes": 2911,
+    "sha256": "f784c46f7208bd82e1f96cc445af304aabd9382da3c00d3a6e99d105c5731025"
+  },
+  {
+    "path": "_onboarding/docs/05_MOTION_SCROLL_STORYBOARD.md",
+    "bytes": 4821,
+    "sha256": "2bfc46db92991783385ede83e5ce0d72de7de297c48c852842365e61c5e6f4aa"
+  },
+  {
+    "path": "_onboarding/docs/06_OBSIDIANUI_COMPONENTS.md",
+    "bytes": 3825,
+    "sha256": "1ed6664390fccd0d753b1280559f9563f872836d15c0b833260157ae1cb6d970"
+  },
+  {
+    "path": "_onboarding/docs/07_TECH_STACK_ARCHITECTURE.md",
+    "bytes": 2766,
+    "sha256": "3d733a24968c147349d5546547de296de387078cb28bb04cf8eff500ec8193dc"
+  },
+  {
+    "path": "_onboarding/docs/08_IMPLEMENTATION_PLAN.md",
+    "bytes": 2846,
+    "sha256": "28ddc59b1b336e9f4229e678dc312563fa980dabfb4cf83700b5f1c2e9e9f4c2"
+  },
+  {
+    "path": "_onboarding/docs/09_ACCEPTANCE_CRITERIA.md",
+    "bytes": 2443,
+    "sha256": "4622ba3267cfbc0b5f00f7c548e0438752f6e3cfb3fffd7e0d4f689715181794"
+  },
+  {
+    "path": "_onboarding/docs/10_ACCESSIBILITY_PERFORMANCE.md",
+    "bytes": 1673,
+    "sha256": "fae07a0767735f4706f5580a9daf3f9b4c2259d99d4fc526c50e08ee7ebec686"
+  },
+  {
+    "path": "_onboarding/docs/11_ASSETS_AND_VISUALS.md",
+    "bytes": 1998,
+    "sha256": "2c5136cbe6d3590fc299229112c9f176a8515fa43d4d3e46653a25e4e6221ff5"
+  },
+  {
+    "path": "_onboarding/docs/12_COPY_GUIDE.md",
+    "bytes": 2150,
+    "sha256": "63fc2d3f2980f1ebeff325e65acbe92007e6c748f15e783ef8dd8bab3111fa60"
+  },
+  {
+    "path": "_onboarding/docs/13_SOURCES_AND_LINKS.md",
+    "bytes": 2436,
+    "sha256": "5733f5833ab95931cdaa2aaff38f9d25cd779edf61ca80dda331a6a6fdfea3ef"
+  },
+  {
+    "path": "_onboarding/docs/14_FRESH_BRANCH_SETUP.md",
+    "bytes": 2165,
+    "sha256": "8a0d462089f9260f3115ea1a8045545e151ab53b3d11152e1c62e77347a93df8"
+  },
+  {
+    "path": "_onboarding/docs/15_EXPERIENCE_CONTENT.md",
+    "bytes": 1529,
+    "sha256": "d4705b14086ace3afcd7234ae83bd3964692384bce45f2733edfefbf92ec6c5e"
+  },
+  {
+    "path": "_onboarding/docs/16_PROJECT_CONTENT.md",
+    "bytes": 3392,
+    "sha256": "8612b65835bc7dc2dc910662cf2ea55e19f9eb814a0579d435ece3db826611b1"
+  },
+  {
+    "path": "_onboarding/docs/17_RESEARCH_PUBLICATION_CONTENT.md",
+    "bytes": 2541,
+    "sha256": "690bb6d25976456c0e285a1c3e5fe236161b2447f717e0fa92d69bf256eddabe"
+  },
+  {
+    "path": "_onboarding/docs/18_COURSEWORK_CONTENT.md",
+    "bytes": 1750,
+    "sha256": "be6307d3d8352b8e53da49ee437dea2fa59b04223d8a1de8118190d536de0fee"
+  },
+  {
+    "path": "_onboarding/docs/19_CONTACT_CONTENT.md",
+    "bytes": 706,
+    "sha256": "923c0f70dbaafb6f70de7df71458c37454eb06b2d98f80e2140a619b049628fe"
+  },
+  {
+    "path": "_onboarding/references/README.md",
+    "bytes": 361,
+    "sha256": "e06bf18f3246db4d4ae6e1bdffea3b4d0b93fef740425594cec26e82e709dae2"
+  },
+  {
+    "path": "_onboarding/references/hero_reference.png",
+    "bytes": 1380600,
+    "sha256": "334e91f2990f868f756b5fb1c7892b3326546b066e47afefa0728435d6db58a5"
+  }
+]
